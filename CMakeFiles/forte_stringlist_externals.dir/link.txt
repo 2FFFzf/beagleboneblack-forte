@@ -1,0 +1,1 @@
+C:\SysGCC\beaglebone\bin\arm-linux-gnueabihf-ar.exe rc libforte_stringlist_externals.a @CMakeFiles\forte_stringlist_externals.dir\objects1.rsp
